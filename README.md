@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 🧐
 
-This platform will be the first portfolio of my journey to start my career as a **Data Analyst**. 😄
+This platform will be the first portfolio of my journey to start my career as a **Data Analyst**. 🤓
 
 Having **2 years of experience in economic research as a Research Assistant**, I've been teaching myself how to operate Excel, R, and Python, and I will never stop learning something new and deepening my analytical skills every day!
 
